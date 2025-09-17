@@ -1,0 +1,64 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build",
+            "type": "shell",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {
+            "group": "build",
+            "label": "Build ARM",
+            "type": "shell",
+            "command": "./bin/arm-none-eabi-as.exe \"${file}\" -o asm/bin/${fileBasenameNoExtension}.bin -mcpu=arm7tdmi -mthumb",
+            "hide": true
+        },
+        {
+            "group": "build",
+            "label": "Build ARM [R Base]",
+            "type": "shell",
+            "command": "./bin/arm-none-eabi-as.exe \"${file}\" -o \"${fileDirname}/${fileBasenameNoExtension}_ruby.bin\" -mcpu=arm7tdmi -mthumb --defsym BASE=1 --defsym RUBY=1; ./bin/arm-none-eabi-objcopy.exe \"${fileDirname}/${fileBasenameNoExtension}_ruby.bin\" -O binary  \"${fileDirname}/${fileBasenameNoExtension}_ruby.bin\"",
+            "hide": true
+        },
+        {
+            "group": "build",
+            "label": "Build ARM [R R1]",
+            "type": "shell",
+            "command": "./bin/arm-none-eabi-as.exe \"${file}\" -o asm/bin/${fileBasenameNoExtension}_out_ruby_r1.bin -mcpu=arm7tdmi -mthumb --defsym REV1=1 --defsym RUBY=1",
+            "hide": true
+        },
+        {
+            "group": "build",
+            "label": "Build ARM [R R2]",
+            "type": "shell",
+            "command": "./bin/arm-none-eabi-as.exe \"${file}\" -o \"${fileDirname}/${fileBasenameNoExtension}_ruby_r2.bin\" -mcpu=arm7tdmi -mthumb --defsym REV2=1 --defsym RUBY=1",
+            "hide": true
+        },
+        {
+            "group": "build",
+            "label": "Build ARM [S Base]",
+            "type": "shell",
+            "command": "./bin/arm-none-eabi-as.exe \"${file}\" -o asm/bin/${fileBasenameNoExtension}_out_sapp.bin -mcpu=arm7tdmi -mthumb --defsym BASE=1 --defsym SAPP=1",
+            "hide": true
+        },
+        {
+            "group": "build",
+            "label": "Build ARM [S R1]",
+            "type": "shell",
+            "command": "./bin/arm-none-eabi-as.exe \"${file}\" -o asm/bin/${fileBasenameNoExtension}_out_sapp_r1.bin -mcpu=arm7tdmi -mthumb --defsym REV1=1 --defsym SAPP=1",
+            "hide": true
+        },
+        {
+            "group": "build",
+            "label": "Build ARM [S R2]",
+            "type": "shell",
+            "command": "./bin/arm-none-eabi-as.exe \"${file}\" -o asm/bin/${fileBasenameNoExtension}_out_sapp_r2.bin -mcpu=arm7tdmi -mthumb --defsym REV2=1 --defsym SAPP=1",
+            "hide": true
+        },
+    ]
+}

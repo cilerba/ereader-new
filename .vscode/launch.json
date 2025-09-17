@@ -1,0 +1,53 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "RUBY",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "args" : [
+               "test/pokeruby.gba",
+            ],
+            "program": "test/mGBA/mGBA.exe",
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false
+        },
+        {
+            "name": "SAPP",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "args" : [
+               "test/pokesapphire.gba",
+            ],
+            "program": "test/mGBA/mGBA.exe",
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false
+        },
+        {
+            "name": "RUBY REV1",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "args" : [
+               "test/pokesapphire_rev1.gba",
+            ],
+            "program": "test/mGBA/mGBA.exe",
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false
+        },
+        {
+            "name": "SAPP REV1",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "args" : [
+               "test/pokesapphire_rev1.gba",
+            ],
+            "program": "test/mGBA/mGBA.exe",
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false
+        },
+
+    ]
+}

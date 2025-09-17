@@ -1,0 +1,1525 @@
+help
+b 0x02029234
+c
+b 0x02029219
+c
+b 0x02024794
+c
+n
+n
+n
+b 02024794
+c
+b 0x02024795
+c
+n
+n
+n
+c
+c
+b 0x02024795
+c
+n
+n
+n
+n
+continue
+b 0x0202925c
+c
+b 0x02029270
+c
+b 0x02029271
+c
+b 0x02029235
+b 0x02029234
+c
+b 0x2024795
+c
+n
+n
+b 0x2024795
+c
+b 0x2024795
+c
+n
+n
+b 0x2024795
+c
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+b 0x2024795
+c
+n
+n
+n
+b 0x2024795
+c
+n
+n
+n
+n
+n
+n
+n
+n
+n
+b 0x2024795
+c
+n
+n
+n
+n
+n
+n
+b 0x2024795
+c
+b 0x2024795
+c
+b 0x2024795
+c
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+c
+b 0x2024795
+c
+n
+n
+n
+n
+n
+n
+n
+n
+n
+b 0x2024795
+c
+n
+n
+n
+n
+n
+b 0x2024795
+c
+n
+n
+n
+n
+b 0x2024795
+c
+n
+n
+n
+n
+b 0x2024795
+c
+n
+n
+n
+n
+b 0x2024795
+c
+n
+n
+n
+n
+b 0x2024795
+c
+n
+n
+n
+n
+c
+n
+n
+n
+n
+b 02024795
+c
+b 0x2024795
+c
+n
+n
+n
+n
+n
+n
+b 0x2024795
+c
+n
+n
+n
+n
+n
+n
+b 0x2024795
+c
+n
+c
+b 0x2024795
+c
+b 0x2024795
+c
+n
+n
+n
+b 0x2024795
+c
+n
+n
+n
+n
+n
+n
+n
+b 0x2024795
+c
+n
+n
+n
+n
+n
+n
+n
+b 0x2024795
+c
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+b 0x2024795
+c
+b 0x2024795
+c
+b 0x2024795
+c
+b 0x2024795
+c
+b 0x2024795
+c
+b 0x2024795
+c
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+nn
+v
+c
+b 0x2024795
+c
+b 0x2024795
+c
+b 0x2024795
+c
+n
+n
+n
+n
+n
+n
+c
+n
+n
+b 0x2024795
+c
+n
+n
+n
+n
+n
+n
+b 0x2024795
+c
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+c
+b 0x2024795
+c
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+b 0x2024795
+c
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+b 0x2024795
+c
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+c
+b 0x2024795
+c
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+c
+b 0x20247BB
+c
+n
+n
+c
+c
+n
+n
+b 0x2024795
+c
+b 0x20247BB
+c
+b 0x2024795
+b 0x20247BB
+c
+c
+n
+n
+20247BF
+b 0x20247BF
+c
+b 0x20247BF
+c
+c
+b 0x20247A9
+c
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+c
+b 0x2024795
+c
+n
+b 0x2024795
+c
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+b 0x2024795
+b 0x20247BB
+c
+c
+b 0x2024795
+b 0x20247BB
+c
+c
+n
+b 0x20247BB
+c
+n
+n
+b 0x20247BB
+c
+b 0x20247C1
+c
+b 0x20247BB
+c
+n
+n
+b 0x20247BB
+c
+n
+n
+n
+n
+n
+n
+n
+n
+c
+b 0x20247CB
+c
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+b 0x20247CB
+c
+b 0x2024795
+c
+b 0x2024795
+c
+b
+b
+b
+b
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+c
+b 0x20247D1
+c
+n
+n
+b 0x20247D1
+c
+b 0x20247CB
+c
+n
+n
+c
+b 0x20247CD
+c
+n
+b 0x20247D3
+c
+b 0x2024795
+c
+b
+n
+b 0x2024795
+c
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+b 0x20247C1
+c
+n
+b 0x20247D1
+c
+b 0x20247D3
+c
+n
+n
+b 0x2024795
+c
+b 0x2024795
+c
+b 0x2024795
+c
+n
+n
+n
+b 0x2024795
+c
+b 0x2024795
+c
+n
+n
+b 0x2024795
+c
+n
+b 0x2024795
+c
+n
+n
+n
+n
+n
+n
+n
+c
+b 0x2024795
+c
+n
+n
+n
+n
+n
+b 0x2024795
+c
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+b 0x2024795
+c
+n
+n
+n
+n
+n
+n
+n
+n
+b 0x2024795
+c
+n
+n
+n
+n
+n
+n
+b 0x2024795
+c
+n
+n
+n
+n
+n
+b 0x2024795
+c
+n
+n
+n
+n
+n
+n
+b 0x2024795
+c
+n
+n
+n
+n
+n
+n
+b 0x2024795
+c
+n
+n
+n
+n
+n
+b 0x2024795
+c
+n
+n
+n
+n
+n
+b 0x2024795
+c
+n
+n
+n
+n
+b 0x2024795
+c
+n
+n
+n
+n
+n
+n
+n
+b 0x2024795
+c
+n
+n
+n
+n
+n
+b 0x2024795
+c
+n
+n
+n
+n
+n
+b 0x2024795
+c
+n
+n
+n
+n
+n
+n
+b 0x2024795
+c
+n
+n
+n
+n
+n
+n
+b 0x2024795
+c
+n
+n
+n
+n
+n
+n
+b 0x2024795
+c
+n
+n
+n
+n
+n
+n
+n
+n
+n
+c
+c
+c
+n
+b 0x2024795
+c
+n
+n
+n
+n
+n
+n
+n
+n
+n
+b
+n
+n
+b 0x2024795
+c
+b
+b
+b
+b
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+b
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+b 0x2024795
+c
+n
+n
+n
+b 0x2024795
+c
+n
+n
+n
+b 0x020291f7
+c
+n
+c
+b 0x2024795
+c
+n
+c
+n
+n
+n
+n
+n
+b 0x020291A3
+c
+n
+n
+n
+b 0x2024795
+c
+n
+n
+n
+n
+n
+n
+n
+n
+b 0x2024795
+c
+n
+n
+n
+n
+b 020291f1
+b 0x020291f1
+c
+n
+n
+n
+n
+n
+n
+n
+b 0x02029205
+c
+n
+c
+b 0x2024795
+c
+n
+n
+n
+n
+n
+n
+n
+b 0x02029183
+c
+b 0x020291d9
+c
+n
+n
+n
+n
+n
+n
+n
+n
+b 0x020291ED
+c
+n
+c
+b 0x2024795
+c
+n
+n
+n
+n
+n
+n
+b 0x2024795
+c
+b 0x2024795
+c
+b 0xfile:///E:/RetroArch/GBA/Pokemon Emerald/Pokemon - Emerald Version (USA, Europe)_block.sav
+b 0x2024799
+c
+n
+n
+n
+n
+n
+n
+n
+c
+b 0x2024795
+c
+b 0x2024795
+c
+n
+n
+n
+n
+b 0x2024799
+c
+n
+n
+n
+n
+n
+b 0x2024799
+c
+n
+n
+n
+n
+n
+n
+b 0x2024795
+c
+n
+n
+n
+n
+b 0x2024795
+c
+n
+n
+n
+b
+n
+n
+b 0x2024795
+c
+n
+n
+n
+n
+n
+b 0x2024795
+c
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+b 0x2024795
+c
+n
+n
+n
+n
+b 0x2024795
+c
+n
+b 0x2024795
+ 
+c
+n
+n
+n
+n
+b 0x2024795
+c
+n
+b 0x2024795
+c
+n
+n
+b 0x2024795
+c
+n
+b 0x2024795
+c
+n
+n
+b 0x2024795
+c
+n
+b 0x2024795
+c
+n
+b 0x2024795
+c
+n
+b 0x	dw $0000
+
+b 0x2024795
+c
+n
+n
+b 0x2024795
+c
+n
+b 0x2024795
+c
+n
+n
+b 0x2024795
+c
+n
+b 0x2024795
+n
+c
+n
+b 0x2024795
+c
+n
+b 0x2024795
+c
+n
+n
+n
+c
+n
+c
+b 0x2024795
+c
+n
+\
+n
+n
+b 0x2024795
+c
+c
+c
+c
+b 0x2024795
+c
+n
+b 0x2024795
+c
+n
+b 0x2024795
+c
+n
+n
+c
+help
+c
+b
+c
+b
+c
+n
+c
+b 0x2028F21
+c
+n
+c
+c
+c
+n
+c
+b 0x02028f95
+c
+b 0x02028f97
+c
+d 1
+help
+d 1
+d 2
+d 3
+c
+b 0x02028F45
+c
+n
+b 0x02028F59
+c
+n
+c
+b 0x2028F21
+c
+n
+b 0x02028F2B
+c
+n
+b 0x2028F31
+c
+b 0x2028F33
+c
+n
+b 0x2028F21
+c
+n
+b 0x2028F29
+c
+b 0x02028F2B
+c
+n
+b 0x2028F33
+c
+n
+b 0x2028F21
+c
+b 0x2028F33
+c
+c
+n
+n
+b 0x2028F33
+c
+n
+b 0x2028F21
+c
+b 0x2028F323
+c
+c
+d 2
+c
+n
+b 0x02028F2B
+c
+n
+b 0x2028F47
+c
+n
+b 0x2028F53
+c
+n
+b 0x02028F61
+c
+b 0x02028f71
+c
+b 0x02028f61
+c
+n
+c
+c
+c
+c
+n
+b 0x2028F6D
+c
+b 0x2028F70
+c
+b 0x02028f61
+c
+n
+n
+b 0x2028F6F
+c
+n
+b 0x2028F59
+c
+c
+b 0x2028F4B
+c
+n
+b 0x2028f53
+c
+n
+b 0x2028F5B
+c
+n
+b 0x2028F6F
+c
+n
+c
+b 0x2028F21
+c
+n
+c
+n
+b 0x2028F2B
+c
+n
+n
+c
+b 0x2028F21
+c
+n
+b 0x2028F31
+c
+b 0x02028F33
+c
+n
+b 0x2028F43
+c
+n
+b 0x2028F4B
+c
+n
+b 0x2028F53
+c
+n
+c
+b 0x2028fc5
+c
+n
+b 0x02028FC9
+c
+n
+b 0x2028FCD
+c
+b 0x2028F21
+c
+n
+b 0x2028F2B
+c
+n
+b 0x2028F33
+c
+n
+b 0x2028F43
+c
+n
+b 0x2028F4B
+c
+n
+b 0x2028F75
+c
+b 0x2028F77
+c
+n
+n
+n
+b 0x2028F21
+c
+n
+b 0x2028F2B
+c
+b 0x2028F91
+c
+n
+b 0x2028F9D
+c
+n
+b 0x2028FA9
+c
+n
+b 0x2028FB5
+c
+n
+b 0x02028f8d
+c
+n
+b 0x2028F91
+c
+n
+n
+b 0x2028F9D
+c
+n
+b 0x0x2028F91
+c
+b 0x02028fc1
+c
+n
+b 0x0202fe9
+c
+b 0x02028fe9
+c
+b 0x2028FEB
+c
+n
+b 0x2028FF9
+c
+n
+b 0x2029001
+c
+n
+b 0x2029009
+c
+n
+b 0x02028f21
+c
+n
+b 0x2028F21
+c
+n
+b 0x2028F21
+c
+n
+b 0x2028F21
+c
+n
+n
+c
+b 0x2028F21
+c
+n
+n
+b 0x2028F47
+c
+c
+c
+b 0x2028F21
+c
+n
+b 0x2028F47
+c
+n
+b 0
+c
+b 0x2028FB1
+c
+n
+b 0x2028FBD
+c
+n
+b 0x2028FC1
+c
+n
+c
+d
+c
+b 0x2028F21
+c
+n
+b 02028F2B
+b 0x2028F2B
+c
+n
+b 0x2028F73
+c
+n
+b 0x2028F77
+c
+n
+b 0x2028F8D
+c
+n
+b 0x2028F99
+c
+n
+b 0x2028FA9
+c
+n
+b 0x2028FAD
+c
+n
+b 0x2028FAF
+c
+d 8
+c
+b 0x2028fad
+c
+c
+n
+c
+b 0x2029037
+c
+c
+d 1
+b 0x2029021
+c
+b 0x2029001
+d 2
+c
+c
+n
+b 0x2029009
+c
+b 0x2029001
+c
+n
+b 0x202900B
+c
+n
+b 0x2029013
+c
+b 0x2029001
+c
+n
+b 0x2029011
+c
+b 0x2029001
+c
+n
+b 0x2029001
+c
+n
+b 0x202900D
+c
+n
+b 0x2029015
+c
+n
+b 0x202901F
+c
+n
+b 0x02000051
+c
+b 0x02028DD7
+c
+n
+n
+n
+b 0x02028DD9
+c
+n
+b 0x0x02028D6
+c
+b 0x02028D7
+c
+b 0x02028DD7
+c
+n
+b 0x02028DD7
+c
+n
+b 0x02028DD6
+d 1
+b 0x02028DD7
+c
+n
+b 0x02028DD9
+c
+n
+b 0x0201A16B
+c
+b 0x0
+d 1
+c
+b 0x0201494B
+c
+c
+b 0x02028DD9
+c
+c
+n
+b 0x02014A61
+c
+n
+c
+b 0x2014951
+c
+c
+c
+n
+c
+b
+c
