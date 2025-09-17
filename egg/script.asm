@@ -84,7 +84,7 @@ ENDC
 	virtualmsgbox BuyEgg
 	waitmsg
 	waitbuttonpress
-	removecoins 100
+	removecoins 1200
 	updatecoinsbox 0, 0
 	playse 95 ; SE_SHOP
 	waitse

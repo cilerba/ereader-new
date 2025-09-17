@@ -4,7 +4,7 @@ VERSION			:= v1
 REGION			:= EN
 REV				:= _REV2
 GAME			:= _SAPP
-DISPLAY_NAME	:= Ruby & Sapphire - Egg Token $(VERSION)
+DISPLAY_NAME	:= Sapphire - Egg Token $(VERSION)
 STRIPS			:= 2
 
 include ../ereader-rs.mk
