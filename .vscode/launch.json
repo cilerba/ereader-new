@@ -31,7 +31,7 @@
             "type": "cppvsdbg",
             "request": "launch",
             "args" : [
-               "test/pokesapphire_rev1.gba",
+               "test/pokeruby_rev1.gba",
             ],
             "program": "test/mGBA/mGBA.exe",
             "cwd": "${workspaceFolder}",
